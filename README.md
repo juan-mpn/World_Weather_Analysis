@@ -1,2 +1,5 @@
 # World_Weather_Analysis
-Python, Jupiter Notebook, anaconda, plots graphs and API Analysis
+Python using VS Code & Jupiter Notebook, anaconda, plots graphs and API Analysis
+.gitignore modified 
+
+
